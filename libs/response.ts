@@ -20,5 +20,4 @@
 // USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 export default class Response {
-
 }
