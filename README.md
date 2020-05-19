@@ -1,4 +1,4 @@
-# crow
+# Crow An Expressive HTTP middleware framework
 Expressive HTTP middleware framework for deno.js to make web applications and APIs more enjoyable to write. Crow's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream.
 
 Only methods that are common to nearly all HTTP servers are integrated directly into Crow's small codebase. This includes things like content negotiation, normalization inconsistencies, redirection, and a few others.
